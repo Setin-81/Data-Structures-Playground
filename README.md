@@ -63,11 +63,17 @@ Once running, you'll see an interactive menu:
   →
 ```
 ![App Screenshot](img-1.png)
+
 ![App Screenshot](img-2.png)
+
 ![App Screenshot](img-3.png)
+
 ![App Screenshot](img-4.png)
+
 ![App Screenshot](img-5.png)
+
 ![App Screenshot](img-6.png)
+
 ![App Screenshot](img-7.png)
 
 Select a number to watch the data structure in action with step-by-step output.
